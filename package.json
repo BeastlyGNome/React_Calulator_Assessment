@@ -1,0 +1,23 @@
+{
+  "name": "seleniumassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "as": "^0.4.1",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "geckodriver": "^2.0.0",
+    "mocha": "^8.4.0",
+    "promised": "^0.2.2",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
